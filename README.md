@@ -1,2 +1,3 @@
 # ham-radio-docs
-documentation for HAM Radio project using Material for MkDocs
+
+Training documentation for beginner users of Raspberry Pi HAM Radio space weather app, using Material for MkDocs

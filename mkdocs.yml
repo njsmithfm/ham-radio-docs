@@ -1,0 +1,4 @@
+site_name: HAM Pi
+site_url: https://njsmithfm.github.io/ham-pi
+theme:
+  name: material
